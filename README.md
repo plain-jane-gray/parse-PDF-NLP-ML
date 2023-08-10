@@ -1,5 +1,5 @@
 ## Parsing apart a PDF file and then comparing parsed files to another document
-![Untitled](https://github.com/plain-jane-gray/parse-pdf-NLP-ML/assets/91796089/99edd620-6cd2-47fc-a935-0cfe44fc4d3a)
+![Untitled](Untitled.jpg)
 
 
 
